@@ -32,6 +32,9 @@
 
 ## Change Log:
 
+- 2019.10.22
+	- Update Clover5097 & Kext & OC.
+
 - 2019.09.06
 	- macOS Mojave Clover EFI uploaded on Git.
 

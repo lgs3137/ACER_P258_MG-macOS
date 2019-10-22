@@ -84,6 +84,8 @@
 				<data>AAAbGQ==</data>
 				<key>AAPL,slot-name</key>
 				<string>Internal</string>
+				<key>complete-modeset-framebuffers</key>
+				<data>AAAAAAAAAAE=</data>
 				<key>device-id</key>
 				<data>GxkAAA==</data>
 				<key>disable-external-gpu</key>
