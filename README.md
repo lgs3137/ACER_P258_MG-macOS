@@ -20,7 +20,7 @@
 
 * Non-working
    * GPU (Nvidia 940M/GTX)
-   * WIFI (Intel® Dual Band Wireless-AC 7265)
+   * ~WIFI (Intel® Dual Band Wireless-AC 7265)~ [zxystd基于OpenBSD的macOS英特尔网卡驱动](https://github.com/zxystd/itlwm) 
    * SD Card Reader (Realtek RTS5129)
    * TouchPad (I2C)
 
@@ -31,6 +31,9 @@
 - [daliansky](https://github.com/daliansky) 
 
 ## Change Log:
+
+- 2020.04.01
+	- Update Clover5107 & Kext & OC0.5.7.（纯更新，未在真机测试！）
 
 - 2019.10.22
 	- Update Clover5097 & Kext & OC.
